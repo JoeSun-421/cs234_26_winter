@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stanford CS234: Reinforcement Learning (Winter 2026)
 
 Downloaded from the official Stanford CS234 course site on 2026-09-10.
@@ -37,3 +38,7 @@ Assignment 2 uses `pip==23.0` inside the uv-created environment because current 
 - Course project: https://web.stanford.edu/class/cs234/project.html
 
 The official page has no downloadable `lecture10pre.pdf`; only the post-class version is linked. Assignment 3 starter code is hosted by Google Drive through the official course page. The local `source/` page archive was intentionally removed after sorting the files.
+=======
+# cs234_26_winter
+A repo that contains cs234 lecs, assignments, and projects
+>>>>>>> origin/main
