@@ -1,0 +1,15 @@
+[project]
+name = "cs234-assignment03"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "gymnasium[mujoco]==0.29.1",
+    "matplotlib>=3.10.9",
+    "moviepy==1.0.3",
+    "numpy>=2.2.6",
+    "scipy>=1.15.3",
+    "stable-baselines3==2.3.0",
+    "torch==2.6.0",
+    "tqdm>=4.70.0",
+]

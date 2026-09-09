@@ -1,0 +1,15 @@
+[project]
+name = "cs234-assignment02"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9,<3.10"
+dependencies = [
+    "gym==0.21",
+    "matplotlib",
+    "numpy==1.23.0",
+    "pybullet==3.2.6",
+    "scipy",
+    "setuptools==65.5.0",
+    "torch",
+    "wheel<0.40.0",
+]
